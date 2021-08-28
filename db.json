@@ -1,0 +1,46 @@
+[ 
+{
+"name":"Master India",
+"gstNumber":"GG232323232DD",
+"status":"Active",
+"address":"K-37,floor,Mandoli Industrial Area, North East , Delhi, Delhi,110093",
+"tax_type":"Regular",
+"business_type":"Private Limited Company",
+"registration_date":"01/07/2017",
+"state_jurisdiction":"Ward 74",
+"centre_jurisdiction":"RANGE-139"
+},
+{
+"name":"Globe Master",
+"gstNumber":"TU23233222PP",
+"status":"InActive",
+"address":"A-57 , Dwarika Nagar near Shastri Park, Delhi ,Delhi 100011",
+"tax_type":"Irregular",
+"business_type":"Private Limited Company",
+"registration_date":"09/02/2010",
+"state_jurisdiction":"Ward 21",
+"centre_jurisdiction":"RANGE-12"
+},
+{
+"name":"Narayan Electronics",
+"gstNumber":"AD77546323FF",
+"status":"Active",
+"address":"Floor 3 , Building Explorer , Whitefield ,Bangalore 530068 ",
+"tax_type":"Regular",
+"business_type":"Private Limited Company",
+"registration_date":"04/02/2012",
+"state_jurisdiction":"Ward 57",
+"centre_jurisdiction":"RANGE-77"
+},
+{
+"name":"Abc Private Ltd.",
+"gstNumber":"LM82832328LS",
+"status":"Active",
+"address":"K-37,floor,Mandoli Industrial Area, North East , Delhi, Delhi,110093",
+"tax_type":"Regular",
+"business_type":"Government Organisation",
+"registration_date":"02/05/2000",
+"state_jurisdiction":"Ward 16",
+"centre_jurisdiction":"RANGE-56"
+}
+]
