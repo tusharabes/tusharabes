@@ -50,8 +50,6 @@ public class MainActivity extends AppCompatActivity {
             }
             callApi();
         });
-
-
     }
 
 //  Calling Of an Api after Search Button Pressed
